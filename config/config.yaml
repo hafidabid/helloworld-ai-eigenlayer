@@ -1,0 +1,10 @@
+version: 0.0.2
+config:
+    project:
+        name: w1_task1
+        version: 0.1.0
+        context: devnet
+        project_uuid: e04643e3-5b20-43d8-87c8-ece81494ec1f
+        telemetry_enabled: false
+        templateBaseUrl: https://github.com/Layr-Labs/hourglass-avs-template
+        templateVersion: v0.0.13
